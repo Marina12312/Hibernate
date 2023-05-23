@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f22fd70-1d33-404c-a8f2-4c533583f02a" name="Changes" comment="Исправила">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/WEB-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/WEB-INF/persistence.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2f22fd70-1d33-404c-a8f2-4c533583f02a" name="Changes" comment="Исправила1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -65,6 +67,7 @@
       <updated>1684589323215</updated>
       <workItem from="1684589324810" duration="8745000" />
       <workItem from="1684689217834" duration="290000" />
+      <workItem from="1684852287300" duration="301000" />
     </task>
     <task id="LOCAL-00001" summary="Hibernate: кэши, аннотации, решение проблемы N+1">
       <created>1684597375975</created>
@@ -73,7 +76,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684597375975</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Исправила">
+      <created>1684852300814</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684852300814</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Исправила1">
+      <created>1684852380341</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684852380341</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +109,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hibernate: кэши, аннотации, решение проблемы N+1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hibernate: кэши, аннотации, решение проблемы N+1" />
+    <MESSAGE value="Исправила" />
+    <MESSAGE value="Исправила1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Исправила1" />
   </component>
 </project>
